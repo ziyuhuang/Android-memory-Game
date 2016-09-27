@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="563fedf482d15ee5e4d613adf97f11fd3dd8a679">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d4d2948c352e5e7ca0d2999db7714ae516882c67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8d61400c0b6e05f92414453638c0d0338acb68d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_97ebb93a7dec95842b0ceb2f0914755578bb0b8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.daimajia.easing-library-1.0.1_dee07c555b99a5a1f7489ee7c658f83aa174448a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_9c15a856f17cae76305762d1989499692732bbc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_e07d157d6c7a1311773ab6a856018f8e1264fa17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_d8479578a85d5128b2407e4b3732e3d98d5aa981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_d7796e98d735a20d7c206e379c8340213261551d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.daimajia.androidanimations/library/1.1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.daimajia.androidanimations-library-1.1.3_dba371a263b1ffdded05c4dc42afeb906ddaf423/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_067cdbb729f8d9b02e23f7c197364977c91ac385/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_6f6041e4d1d8320ea40a87ea12a7cada4c044609/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_5d27e9c5d119d208f9f8bd65e4d4d69f289ea2aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_383d5c6b3575c77a59d4c6caf6f04d946752d040/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_5cdbb9303c06840e57df2eb5b3e2874f0c902700/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_3e8f00cf58e7ab1c3ec6d1012a4c4f499ae02c22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_0812d53e15f76a8a68b94227a4d03680b7b1f3b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_c665663c289fd7a96a7cadf95d211d9b12aaa6d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_1dde46f933b50825242d7dbe0c9bfd58e6dd2502/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_cc5df8a72a0ee5808a7b71c9bd9434feca921fa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_2f541d21d390dd21bba7963059492d90829fa577/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e738f5bc6d5ab8722254ad56481da991388d8cff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_291540fcc1237a5cdc2a2c0ad36a98f47c1eff8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="511c6da46ad360260fb3aafc9cb001c773df8550">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_863235f377fda18a8cbd0e13f744b531ac2d2f74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/ziyuhuang/github/CS175Fall2016/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_eb75c90f65ece2248d243fbeecbfe5e3874b20ce/classes.dex" />
+    </item>
+
+</items>
